@@ -23,6 +23,9 @@
 | 第七章 | 边境地带：柔佛与两岸之间 | [border.md](sections/border.md) |
 | 第八章 | 滨海与公园：自然的设计 | [seaside_park.md](sections/seaside_park.md) |
 | 第九章 | 食物与市井：从小贩中心看新加坡 | [food_court.md](sections/food_court.md) |
+| 第十章 | 出行：MRT、巴士与 Grab 之间 | [transportation.md](sections/transportation.md) |
+| 第十一章 | 身份认同：华人、马来人、印度人与新加坡人 | [identity.md](sections/identity.md) |
+| 第十二章 | 尾声：离开新加坡之后的思考 | [epilogue.md](sections/epilogue.md) |
 
 ---
 
