@@ -12,20 +12,21 @@
 
 ## 目录
 
-| 章节 | 标题 | 文件 |
-|------|------|------|
-| 第一章 | 初抵：樟宜机场与第一印象 | [first_impression.md](sections/first_impression.md) |
-| 第二章 | 移民与劳工：从街头外劳到芯片工程师 | [immigration.md](sections/immigration.md) |
-| 第三章 | 教育与人才：分流制度与精英培养 | [education.md](sections/education.md) |
-| 第四章 | 水资源：一个岛国的生命线 | [water_resources.md](sections/water_resources.md) |
-| 第五章 | 博物馆：历史的叙事方式 | [museum.md](sections/museum.md) |
-| 第六章 | 城市中心：商业与秩序 | [downtown.md](sections/downtown.md) |
-| 第七章 | 边境地带：柔佛与两岸之间 | [border.md](sections/border.md) |
-| 第八章 | 滨海与公园：自然的设计 | [seaside_park.md](sections/seaside_park.md) |
-| 第九章 | 食物与市井：从小贩中心看新加坡 | [food_court.md](sections/food_court.md) |
-| 第十章 | 出行：MRT、巴士与 Grab 之间 | [transportation.md](sections/transportation.md) |
-| 第十一章 | 身份认同：华人、马来人、印度人与新加坡人 | [identity.md](sections/identity.md) |
-| 第十二章 | 尾声：离开新加坡之后的思考 | [epilogue.md](sections/epilogue.md) |
+| 章节 | 标题 | 分组 | 文件 |
+|------|------|------|------|
+| 第一章 | 初抵：樟宜机场与第一印象 | 一、抵达 | [first_impression.md](sections/first_impression.md) |
+| 第二章 | 出行：MRT、巴士与 Grab 之间 | 二、日常生活 | [transportation.md](sections/transportation.md) |
+| 第三章 | 食物与市井：从小贩中心看新加坡 | 二、日常生活 | [food_court.md](sections/food_court.md) |
+| 第四章 | 城市中心：商业与秩序 | 二、日常生活 | [downtown.md](sections/downtown.md) |
+| 第五章 | 滨海与公园：自然的设计 | 二、日常生活 | [seaside_park.md](sections/seaside_park.md) |
+| 第六章 | 博物馆：历史的叙事方式 | 三、历史与记忆 | [museum.md](sections/museum.md) |
+| 第七章 | 战场的两面：日本人墓地与英联邦战争公墓 | 三、历史与记忆 | [war_memorial.md](sections/war_memorial.md) |
+| 第八章 | 边境地带：柔佛与两岸之间 | 四、边界 | [border.md](sections/border.md) |
+| 第九章 | 水资源：一个岛国的生命线 | 五、制度与治理 | [water_resources.md](sections/water_resources.md) |
+| 第十章 | 移民与劳工：从街头外劳到芯片工程师 | 五、制度与治理 | [immigration.md](sections/immigration.md) |
+| 第十一章 | 教育与人才：分流制度与精英培养 | 五、制度与治理 | [education.md](sections/education.md) |
+| 第十二章 | 身份认同：华人、马来人、印度人与新加坡人 | 六、认同与反思 | [identity.md](sections/identity.md) |
+| 第十三章 | 尾声：离开新加坡之后的思考 | 六、认同与反思 | [epilogue.md](sections/epilogue.md) |
 
 ---
 
