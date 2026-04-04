@@ -1,0 +1,55 @@
+# Chapter 11　Education and Talent: Streaming, Selection, and Retention
+
+---
+
+## I. A Last Look Before Leaving
+
+Today is my last day in Singapore; tomorrow I return to America.
+
+I want to use this remaining time to put into words my observations on Singapore's education system and talent mechanisms during these days here. These impressions may not yet be fully systematic, but as a raw record, perhaps reading them again in the future will bring new understanding.
+
+## II. Streaming: Institutionalized Early Selection
+
+Singapore's education system can be divided roughly into kindergarten, primary school, secondary school, polytechnic, junior college, and university. What distinguishes it from many other countries is that Singapore begins tracking students at a fairly early stage. Typically after secondary school, students are guided into different development paths based on their results and abilities.
+
+Some students enter what is called a "polytechnic." These institutions are centered on applied and technical education, and differ fundamentally from the "vocational colleges" of many other countries — Singapore's polytechnics are quite modern, with curricula closely tied to industry needs, covering areas such as bioengineering, financial management, and cloud computing.
+
+I had occasion to encounter Nanyang Polytechnic. The first time many people hear that name, they assume it has some connection to Nanyang University, but in fact it primarily recruits secondary school graduates and is positioned more like a vocational-technical institute. The campus is not vast, but references to high technology and related equipment appear everywhere, giving a remarkably forward-looking impression. Most graduates enter the job market directly, becoming technicians or entry-level engineers across various industries.
+
+## III. At the Top: NUS and NTU
+
+At the university level, Singapore's two most representative institutions are the National University of Singapore (NUS) and Nanyang Technological University (NTU). Both rank near the top of international university rankings, and graduates generally enjoy strong employment prospects. For international students, holding a degree from either of these two universities also carries clear advantages when applying for Singapore Permanent Residency.
+
+The NTU campus is situated on a hillside, not far from the sea, with a pleasant natural environment. Historically, the foundations of Singapore's higher education system trace back to the British colonial period. NUS has used English as its medium of instruction from the outset; NTU's predecessor, by contrast, was a university that taught in Chinese, and after decades of policy evolution, it ultimately transitioned to an English-medium system.
+
+This transition itself reflects Singapore's broader orientation in language policy — English, not Mandarin, is the ticket of entry into the mainstream elite.
+
+## IV. Language: The Threshold for the Elite
+
+In Singapore, standard English — close to British or American norms — is an important tool for entering the elite. Yet in everyday life, most people do not speak standard English but rather a localized hybrid language: Singlish, or Singaporean English.
+
+Singlish blends elements from English, Mandarin (especially Hokkien and Cantonese dialects), Malay, and Tamil, forming a distinctive grammatical structure and tonal character. The government has repeatedly launched "Speak Good English" campaigns to suppress the use of Singlish, but this language has already penetrated deep into everyday life and become part of Singapore's cultural identity.
+
+Here, the kind of English you speak often determines how others define you.
+
+## V. Talent Policy: A Precisely Designed Selection Mechanism
+
+Singapore's policy design for attracting and retaining talent reflects the same characteristic precision.
+
+On one hand, for outstanding foreign students — especially doctoral researchers — Singapore often provides quite generous scholarship support: substantial or full tuition waivers plus living stipends. This mechanism is designed to attract high-potential talent seeds at low cost and incorporate them into the country's academic and industrial ecosystem.
+
+On the other hand, for ordinary foreign students, studying in Singapore typically means paying tuition far higher than that of domestic students. This differentiated pricing both generates substantial revenue for the government and creates an implicit threshold — only foreign students with sufficient financial or academic ability gain entry into this system.
+
+At the immigration policy level, applicants who hold qualifications from local universities — especially top ones — enjoy clear advantages when applying for Permanent Residency or citizenship. This creates a clear pathway: screen talent through the education system, attract talent through scholarships, then retain talent through immigration policy.
+
+## VI. Summary: A Self-Consistent Talent Production System
+
+Taken together, Singapore does not rely on any single mechanism to manage talent flows. Instead, it organically combines educational streaming, tuition fee structures, and visa and immigration policies to build a relatively complete system for producing and retaining talent.
+
+This system is highly self-consistent in functional terms: it cultivates the various types of talent the country needs, brings in international capacity for high-end research and industry, and manages the structure and quality of the population to some degree.
+
+This design is worth serious thought.
+
+---
+
+*[← Chapter 10: The Engineering of Labor](chapter_02_immigration.md)　　[Chapter 9: The Politics of Water →](chapter_04_water_resources.md)　　[← Back to Contents](../index.md)*
