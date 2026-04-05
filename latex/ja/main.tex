@@ -1,10 +1,17 @@
 % 刃の上のダンス：シンガポール見聞録
 % 日本語版
-% 編集方法：xelatex main.tex
+% 編集方法：xelatex main.tex（Overleaf 対応）
 
 \documentclass[12pt, a4paper]{book}
 
+% Overleaf（Linux/TeX Live）で利用可能な日本語フォント
 \usepackage{xeCJK}
+\setCJKmainfont{IPAMincho}[
+    BoldFont=IPAGothic,
+    ItalicFont=IPAMincho
+]
+\setCJKsansfont{IPAGothic}
+\setCJKmonofont{IPAGothic}
 \usepackage{geometry}
 \usepackage{hyperref}
 \usepackage{graphicx}
@@ -13,14 +20,6 @@
 \usepackage{fancyhdr}
 \usepackage{microtype}
 \usepackage{parskip}
-
-% 日本語フォント設定（macOSシステムフォント）
-\setCJKmainfont{Hiragino Mincho ProN}[
-    BoldFont=Hiragino Kaku Gothic ProN W6,
-    ItalicFont=Hiragino Mincho ProN
-]
-\setCJKsansfont{Hiragino Kaku Gothic ProN}
-\setCJKmonofont{Hiragino Kaku Gothic ProN}
 
 \geometry{top=2.5cm, bottom=2.5cm, left=3cm, right=3cm}
 
