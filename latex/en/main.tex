@@ -1,0 +1,79 @@
+% Dancing on the Blade's Edge: Notes from Singapore
+% English Edition
+% Compile with: xelatex main.tex
+
+\documentclass[12pt, a4paper]{book}
+
+\usepackage{fontspec}
+\usepackage{geometry}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{csquotes}
+\usepackage{microtype}
+\usepackage{parskip}
+
+\geometry{top=2.5cm, bottom=2.5cm, left=3cm, right=3cm}
+
+\setmainfont{Georgia}
+
+\onehalfspacing
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=blue,
+    pdftitle={Dancing on the Blade's Edge: Notes from Singapore},
+    pdfauthor={Nianjun Zhou}
+}
+
+\titleformat{\chapter}[display]
+  {\normalfont\Large\bfseries}{\chaptertitlename\ \thechapter}{16pt}{\LARGE}
+\titlespacing*{\chapter}{0pt}{30pt}{20pt}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[LO]{\nouppercase{\rightmark}}
+\fancyhead[RE]{\nouppercase{\leftmark}}
+
+\title{
+    {\Huge\textbf{Dancing on the Blade's Edge}}\\[0.5em]
+    {\Large Notes from Singapore}\\[1em]
+    {\large A Small Nation's Survival in the World Order}
+}
+\author{Nianjun Zhou}
+\date{January 2025, Singapore}
+
+\begin{document}
+
+\frontmatter
+\maketitle
+
+\vspace{2em}
+\begin{center}
+\textit{Written during the author's visit to Singapore for AAAI 2025}
+\end{center}
+
+\chapter*{Preface}
+\addcontentsline{toc}{chapter}{Preface}
+
+It is said that during Lee Kuan Yew's first visit to Beijing in 1976, Deng Xiaoping asked him a question: can China become a developed country?
+
+Lee Kuan Yew replied that the people who had remained in Beijing were China's elite, while the Chinese who had come to Singapore were mostly laborers from the bottom rungs of society. If these immigrants of humble origins could build a modern nation on an island with almost no natural resources, then China could certainly achieve modernization too.
+
+Singapore is not merely a city-state — it is more like an experiment: how can a small country find its own way to survive in a world dominated by great powers?
+
+\tableofcontents
+
+\mainmatter
+
+\include{chapters/chapter_01_first_impression}
+\include{chapters/chapter_02_immigration}
+\include{chapters/chapter_03_education}
+\include{chapters/chapter_04_water_resources}
+\include{chapters/chapter_07_war_memorial}
+
+\end{document}
