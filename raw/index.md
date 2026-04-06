@@ -16,6 +16,7 @@
 |------|------|------|------|
 | 第一章 | 初抵：樟宜机场与第一印象 | 一、抵达 | [first_impression.md](sections/first_impression.md) |
 | 第二章 | 出行：MRT、巴士与 Grab 之间 | 二、日常生活 | [transportation.md](sections/transportation.md) |
+| 第二章* | 住在新加坡：组屋、身份与空间 | 二、日常生活 | [living_in_singapore.md](sections/living_in_singapore.md) |
 | 第三章 | 食物与市井：从小贩中心看新加坡 | 二、日常生活 | [food_court.md](sections/food_court.md) |
 | 第四章 | 城市中心：商业与秩序 | 二、日常生活 | [downtown.md](sections/downtown.md) |
 | 第五章 | 滨海与公园：自然的设计 | 二、日常生活 | [seaside_park.md](sections/seaside_park.md) |
